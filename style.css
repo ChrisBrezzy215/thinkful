@@ -38,26 +38,18 @@ nav{
   text-align: center;
   word-spacing: 20px;
 }
-header{
-  
-}
 
 article {
   padding: 50px 0;
-
 }
 
 article div {
   text-align: left;
   width: 100%;
    margin: auto;
-  display: grid;
-  place-items: center;
 }
 
 p {
- display: grid;
-  place-items: center;
   line-height: 1.5;;
   text-align: left;
    margin: auto;
@@ -69,12 +61,9 @@ div {
   margin: auto;
   width: 600px;
 text-align: left;
-  display: grid;
-  place-items: center;
 }
 
 footer{
-  
 margin-top: -10%;
    margin: auto;
   width: 600px;
